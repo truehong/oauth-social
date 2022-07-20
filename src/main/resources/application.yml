@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: info
+    com.psc.sample: debug
+server:
+  port: 80
